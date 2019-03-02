@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 51d040d7d0bcadb43b6755a9150855f7
+timeCreated: 1520680797
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box065
+    100002: //RootNode
+    100004: Object008
+    100006: Object009
+    100008: Object010
+    100010: Object011
+    100012: Object013
+    100014: Object014
+    100016: Eket_1X1
+    100018: Eket_1X2
+    100020: Eket_4X4
+    100022: Eket_Base
+    100024: Eket_Base_Short
+    100026: Eket_Door_1X1
+    100028: Eket_Door_2X1
+    400000: Box065
+    400002: //RootNode
+    400004: Object008
+    400006: Object009
+    400008: Object010
+    400010: Object011
+    400012: Object013
+    400014: Object014
+    400016: Eket_1X1
+    400018: Eket_1X2
+    400020: Eket_4X4
+    400022: Eket_Base
+    400024: Eket_Base_Short
+    400026: Eket_Door_1X1
+    400028: Eket_Door_2X1
+    2100000: 01 - Default
+    2300000: Box065
+    2300002: Object008
+    2300004: Object009
+    2300006: Object010
+    2300008: Object011
+    2300010: Object013
+    2300012: Object014
+    2300014: Eket_1X1
+    2300016: Eket_1X2
+    2300018: Eket_4X4
+    2300020: Eket_Base
+    2300022: Eket_Base_Short
+    2300024: Eket_Door_1X1
+    2300026: Eket_Door_2X1
+    3300000: Box065
+    3300002: Object008
+    3300004: Object009
+    3300006: Object010
+    3300008: Object011
+    3300010: Object013
+    3300012: Object014
+    3300014: Eket_1X1
+    3300016: Eket_1X2
+    3300018: Eket_4X4
+    3300020: Eket_Base
+    3300022: Eket_Base_Short
+    3300024: Eket_Door_1X1
+    3300026: Eket_Door_2X1
+    4300000: Box065
+    4300002: Object008
+    4300004: Object009
+    4300006: Object010
+    4300008: Object011
+    4300010: Object013
+    4300012: Object014
+    4300014: Eket_Base_Short
+    4300016: Eket_4X4
+    4300018: Eket_Door_1X1
+    4300020: Eket_Door_2X1
+    4300022: Eket_1X1
+    4300024: Eket_1X2
+    4300026: Eket_Base
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
