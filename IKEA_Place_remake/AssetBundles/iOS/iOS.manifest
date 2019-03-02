@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 333476836
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: decoration/alseda
+      Dependencies: {}
+    Info_1:
+      Name: chair/alu
+      Dependencies: {}
+    Info_2:
+      Name: chair/bjursta
+      Dependencies: {}
+    Info_3:
+      Name: storage/branas
+      Dependencies: {}
+    Info_4:
+      Name: bed/brimnes
+      Dependencies: {}
+    Info_5:
+      Name: table/burvik
+      Dependencies: {}
+    Info_6:
+      Name: chair/chair
+      Dependencies: {}
+    Info_7:
+      Name: decoration/curtain
+      Dependencies: {}
+    Info_8:
+      Name: table/desk
+      Dependencies: {}
+    Info_9:
+      Name: shelf/eket_composition
+      Dependencies: {}
+    Info_10:
+      Name: chair/frosta
+      Dependencies: {}
+    Info_11:
+      Name: table/gladom
+      Dependencies: {}
+    Info_12:
+      Name: shelf/hallstavik
+      Dependencies: {}
+    Info_13:
+      Name: light/hektar
+      Dependencies: {}
+    Info_14:
+      Name: shelf/hemnes_batroom_short
+      Dependencies: {}
+    Info_15:
+      Name: shelf/hemnes_batroom_tall
+      Dependencies: {}
+    Info_16:
+      Name: shelf/hemnes_drawer
+      Dependencies: {}
+    Info_17:
+      Name: shelf/hemnes_living
+      Dependencies: {}
+    Info_18:
+      Name: shelf/hemnes_shelf
+      Dependencies: {}
+    Info_19:
+      Name: table/hemnes_bedside
+      Dependencies: {}
+    Info_20:
+      Name: chair/idolf
+      Dependencies: {}
+    Info_21:
+      Name: shelf/ikea_ps
+      Dependencies: {}
+    Info_22:
+      Name: decoration/isfjorden
+      Dependencies: {}
+    Info_23:
+      Name: table/jorid
+      Dependencies: {}
+    Info_24:
+      Name: carpet/bronden
+      Dependencies: {}
+    Info_25:
+      Name: carpet/flottebo
+      Dependencies: {}
+    Info_26:
+      Name: carpet/kollund
+      Dependencies: {}
+    Info_27:
+      Name: carpet/lappljung
+      Dependencies: {}
+    Info_28:
+      Name: carpet/white
+      Dependencies: {}
+    Info_29:
+      Name: chair/flottebo_chair
+      Dependencies: {}
